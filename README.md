@@ -3,7 +3,8 @@
  This is a simple Haskell program for playing a coin flipping game.
 
 Overview
- The program allows you to simulate flipping a set number of coins and achieving a target configuration by flipping a subset of those coins.
+
+  The program allows you to simulate flipping a set number of coins and achieving a target configuration by flipping a subset of those coins.
 
 Features:
 
